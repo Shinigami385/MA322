@@ -1,0 +1,15 @@
+[root, func_val, status] = bisection(@f, a, b, epsilon, delta, max_iter)
+
+root =
+
+	-0.317062053084373
+
+
+func_val =
+
+    -1.493599706137161e-06
+
+
+status =
+
+    0

@@ -1,0 +1,10 @@
+[fixed, status] = fixed_point(@g, x, epsilon, max_iter)
+
+fixed =
+
+   	1.732050810014727
+
+
+status =
+
+    0
